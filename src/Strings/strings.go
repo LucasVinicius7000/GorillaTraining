@@ -7,6 +7,8 @@ func main() {
 	fmt.Println(firstString)
 	secondString := "and this one, is my second string"
 	fmt.Print(secondString)
+	var myName string = "Lucas Vinicius"
+	fmt.Printf("\n\nThe author of this code is %s", myName)
 }
 
 // author: Lucas Vinicius
