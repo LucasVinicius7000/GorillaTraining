@@ -8,3 +8,5 @@ func main() {
 	secondString := "and this one, is my second string"
 	fmt.Print(secondString)
 }
+
+// author: Lucas Vinicius
