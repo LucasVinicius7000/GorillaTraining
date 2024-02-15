@@ -10,3 +10,8 @@ func main() {
 }
 
 // author: Lucas Vinicius
+
+/*
+	this is a comment too
+	ablu blu bleh
+*/
